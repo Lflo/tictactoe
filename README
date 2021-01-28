@@ -1,0 +1,12 @@
+tictactoe game
+
+WRITTEN 
+  language: C89
+  date: 25/10/2019
+  
+  'Unix and C Programming' unit
+  
+  
+TO RUN
+  run the Makefile to compile
+  once compiled run ./tictactoe
